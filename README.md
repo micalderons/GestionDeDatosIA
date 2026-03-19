@@ -30,3 +30,7 @@ GestionDeDatos/
 ├── Dockerfile
 ├── README.md
 └── requirements.txt
+
+## 5.Documentación
+
+Revisar carpeta docs para evidencias y documentación completa del proyecto.
